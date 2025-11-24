@@ -92,5 +92,4 @@ Judge report (JSON):
 * **Prompting strategy**: deterministic judge + targeted revise
 * **Open-ended**: supports any topic; clear moral; safe tone
 * **Surprise factor**: JSON rubric + quick loop in a tiny tool
----
 ```
