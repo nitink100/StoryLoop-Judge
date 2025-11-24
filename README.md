@@ -1,4 +1,5 @@
 ````markdown
+#StoryLoop Judge
 This submission implements a **children’s bedtime story** generator (ages 5-10) with a **judge-and-revise loop**.  
 It **keeps the required model**: `gpt-3.5-turbo` and uses your local `OPENAI_API_KEY` (not included).
 
